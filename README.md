@@ -2,11 +2,12 @@
 
 ![KashaHard](KashaHard.gif)
 
-Simple Front-End JavaScript Framework. Originally designed for [emoteJAM](https://github.com/tsoding/emoteJAM). The name basically means [buckwheat](https://en.wikipedia.org/wiki/Buckwheat) in russian.
-
+Simple Front-End JavaScript Framework. 
+<!-- Originally designed for [emoteJAM](https://github.com/tsoding/emoteJAM). The name basically means [buckwheat](https://en.wikipedia.org/wiki/Buckwheat) in russian.
+https://tsoding.org/grecha.js/example.html -->
 ## Quick Start
 
-https://tsoding.org/grecha.js/example.html
+
 
 ```html
 <!DOCTYPE html>
